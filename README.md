@@ -9,6 +9,11 @@ Este repositorio proporciona una aplicación que muestra información de jugador
 - Cada entrada de jugador incluye sus premios y logros destacados.
 - Se utiliza property binding para actualizar dinámicamente la información del jugador.
 
+![image](https://github.com/StivenTorres17/NBA-Player-Property-Binding/assets/125917355/202e652c-4bf3-4633-ad75-649c8cff611f)
+![image](https://github.com/StivenTorres17/NBA-Player-Property-Binding/assets/125917355/f2648fd3-a2e8-4f78-9534-0c0c7157ba99)
+![image](https://github.com/StivenTorres17/NBA-Player-Property-Binding/assets/125917355/55e17d29-41df-451f-8733-84dc8e750ef0)
+
+
 ## Tecnologías Utilizadas
 
 - Angular
